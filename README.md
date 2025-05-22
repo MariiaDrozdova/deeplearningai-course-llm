@@ -4,7 +4,7 @@ This repository contains my notebooks from the **"Generative AI with LLMs"** cou
 
 This course helped me understand the foundations of working with large language models (LLMs), including:
 - LLMs
-- generative AI project lifecycle
+- Generative AI project lifecycle
 - LLM pre-training and scaling laws
 - Instruction fine-tuning
 - PEFT
@@ -15,6 +15,7 @@ This course helped me understand the foundations of working with large language 
 
 Course: [Generative AI with LLMs](https://www.coursera.org/learn/generative-ai-with-llms)  
 By DeepLearning.AI and AWS
+[Certificate](https://coursera.org/share/c24a6868e7c05c4d13c272d3a68f9183)
 
 ---
 
