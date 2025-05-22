@@ -15,7 +15,7 @@ This course helped me understand the foundations of working with large language 
 
 Course: [Generative AI with LLMs](https://www.coursera.org/learn/generative-ai-with-llms)  
 By DeepLearning.AI and AWS
-[Certificate](https://coursera.org/share/c24a6868e7c05c4d13c272d3a68f9183)
+[certificate](https://coursera.org/share/c24a6868e7c05c4d13c272d3a68f9183)
 
 ---
 
